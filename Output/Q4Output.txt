@@ -1,0 +1,20 @@
+16359, 4771 Ritter Avenue Detroit Michigan 48226 US, 86
+21605, 3810 Willis Avenue Deltona Florida 32738 US, 86
+22893, 2661 Counts Lane Cincinnati Kentucky 45202 US, 86
+30469, 548 Camden Street Sparks Nevada 89431 US, 86
+30438, 2498 Heron Way Portland Oregon 97204 US, 86
+19309, 3301 Palmer Road Westerville Ohio 43081 US, 86
+21609, 131 Jett Lane Los Angeles California 90017 US, 86
+37554, 371 Blue Spruce Lane Hanover Maryland 21076 US, 86
+6822, 518 Modoc Alley Boise Idaho 83703 US, 86
+17279, 2252 Oakridge Farm Lane Waukesha Wisconsin 53186 US, 86
+33662, 4755 Oakway Lane Los Angeles California 90017 US, 86
+2448, 3057 Elmwood Avenue Scottsdale Arizona 85259 US, 86
+6820, 438 Adams Avenue Waldorf Maryland 20601 US, 86
+16368, 151 Harvest Lane Warrensburg Missouri 64093 US, 86
+15352, 693 Terry Lane Orlando Florida 32810 US, 86
+24907, 1460 Rose Street Harvey Illinois 60426 US, 86
+21616, 1024 Graystone Lakes Cedar Grove Georgia 31021 US, 86
+19318, 4035 Canis Heights Drive Los Angeles California 90007 US, 86
+2433, 4999 Bee Street Traverse City Michigan 49686 US, 86
+2435, 4287 Locust Street Albany Georgia 31707 US, 86
